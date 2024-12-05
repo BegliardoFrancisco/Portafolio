@@ -1,0 +1,24 @@
+
+.container-presentacion {
+    width: 100vh;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 1%;
+}
+
+.container-presentacion h2 {
+    padding-left: 2rem;
+    font-size: 2rem;
+}
+
+.container-presentacion h1 {
+    font-size: 4rem;
+}
+
+
+.container-presentacion h2::first-letter{
+    padding-left: 2rem;
+    font-size: 2rem;
+    color: ;
+}

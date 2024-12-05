@@ -1,12 +1,11 @@
-#root {
-  text-align: center;
-}
 
 ul {
   padding: 1.5rem 1%;
   display: flex;
   flex-direction: row-reverse;
+  align-items: center;
 }
+
 
 
 a {
