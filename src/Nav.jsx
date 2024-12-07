@@ -1,18 +1,15 @@
-import './styles/App.css'
-import home from './assets/house-solid.svg'
-import proyects from './assets/code-solid.svg'
+import './styles/Nav.css'
+import HomeIcon  from './icons/HomeIcon'
+import ProyectIcon from './icons/ProyectIcon'
+
 function Nav() {
 
   return (
     <nav>
       <ul>
-        <li><a href=""><img className='icon' src={proyects}/></a></li>
-        <li><a href=""><img className='icon' src={home}/></a></li>
+        <li><a href=""><ProyectIcon></ProyectIcon></a></li>
+        <li><a href=""><HomeIcon ></HomeIcon></a></li>
       </ul>
-      <div className='container_foto'>
-        <img className='perfil' src='' alt="" />
-      </div>
-      
     </nav>
   )
 }

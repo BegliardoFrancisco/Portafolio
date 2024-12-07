@@ -1,0 +1,11 @@
+.icon {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+
+.github {
+  border-radius: 50%;
+  fill: #ffffff;
+  background-color: #303030;
+
+}

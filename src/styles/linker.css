@@ -1,0 +1,38 @@
+.container-contacts {
+    margin-top: 2px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.link-button {
+    padding-top: 2px;
+    margin: 5px;
+    border: none;
+    background-color: transparent;
+}
+
+
+.container-copy-links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    z-index: 2;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    background-color: transparent;
+    margin-left: 1rem;
+
+}
+
+.container-copy-links p {
+    background-color: inherit;
+    font-size: 1rem;
+    font-weight: 100;
+    margin: 4px;
+}
+.container-copy-links button {
+    background-color: inherit;
+    border: none;
+    border-left: 1px solid #bbb;
+}

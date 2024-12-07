@@ -1,0 +1,22 @@
+
+.container_foto {  
+    position: absolute;
+    z-index: 1;
+    background-color: #040111;
+    top: 0%;
+    left: 45%;
+    border-bottom-left-radius: 100rem;
+    border-bottom-right-radius: 100rem;
+    width: 30vw;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .perfil {
+    width: 15vw;
+    height: 80%;
+    object-fit:cover;
+    object-position: top;
+  }

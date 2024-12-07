@@ -1,0 +1,19 @@
+
+
+.tarjeta-dato {
+    align-items: center;
+    justify-content: center;
+    width: 40vw;
+    background-color: transparent;
+
+}
+
+.tarjeta-dato h2 {
+    background-color: inherit;
+    font-size: 3rem;
+}
+
+.tarjeta-dato h3 {
+    background-color: inherit;
+    font-size: 1.5rem;
+}
