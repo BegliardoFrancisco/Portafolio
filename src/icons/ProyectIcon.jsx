@@ -2,7 +2,7 @@ export default function ProyectIcon () {
     return (
         <>
         <svg 
-        className= "icon"
+        className= "icon icon-nav"
         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
             <path
             d="M392.8 1.2c-17-4.9-34.7 5-39.6 

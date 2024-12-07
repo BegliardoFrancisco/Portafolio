@@ -1,11 +1,21 @@
 .icon {
     width: 1.5rem;
     height: 1.5rem;
+    transition: .5s ease;  
+    margin: 0 3px;
   }
+
+.icon-nav {
+
+  filter: drop-shadow(2px 2px 5px #101010);
+}
 
 .github {
   border-radius: 50%;
   fill: #ffffff;
-  background-color: #303030;
-
 }
+
+.icon:hover {
+  fill: #AAAA;
+}
+

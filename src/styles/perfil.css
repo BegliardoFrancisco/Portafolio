@@ -12,8 +12,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  
+    box-shadow: 0px 0px 1rem #202020, 0px 0px 2rem #252525;
+}
+
   .perfil {
     width: 15vw;
     height: 80%;

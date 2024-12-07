@@ -12,8 +12,8 @@ function Presentation() {
         <section className='presentation'>
             <article className="container-presentacion">
                 <h1 className="name">Francisco <br/>Begliardo</h1>
-                <h2>Full Stack Development</h2>
-                <p>Construyo soluciones que satisfacen  los requerimientos  <br />
+                <h2>Full Stack Developer</h2>
+                <p>Creo soluciones que satisfacen  los requerimientos  <br />
                 de los clientes.</p>
                 <Contact></Contact>
             </article>

@@ -1,19 +1,24 @@
 
 
-.tarjeta-dato {
-    align-items: center;
-    justify-content: center;
-    width: 40vw;
+.tarjeta-datos {
     background-color: transparent;
-
+    padding-bottom: 2rem;
 }
 
-.tarjeta-dato h2 {
-    background-color: inherit;
-    font-size: 3rem;
-}
-
-.tarjeta-dato h3 {
+.tarjeta-datos h2 {
     background-color: inherit;
     font-size: 1.5rem;
+    font-weight: 400;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 1vh;
+    text-align: left
+}
+
+.tarjeta-datos h3 {
+    margin-top: 4px;
+    text-align: left;
+    background-color: inherit;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #bbbb;
 }

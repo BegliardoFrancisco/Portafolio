@@ -6,7 +6,7 @@ export default function HomeIcon () {
       <svg  
       xmlns="http://www.w3.org/2000/svg" 
       viewBox="0 0 576 512"
-      className="icon"
+      className="icon icon-nav"
       >
         <path 
         d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 

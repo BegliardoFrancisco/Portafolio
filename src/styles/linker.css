@@ -6,10 +6,9 @@
 }
 
 .link-button {
-    padding-top: 2px;
-    margin: 5px;
     border: none;
-    background-color: transparent;
+    background-color: inherit;
+    
 }
 
 
@@ -36,3 +35,12 @@
     border: none;
     border-left: 1px solid #bbb;
 }
+
+@keyframes slide-in {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
