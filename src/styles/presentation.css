@@ -2,11 +2,12 @@
     display:flex;
     flex-direction: row;
     width: 100vw;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 
 .container-presentacion {
-    width: 100vw;
     height: auto;
     display: flex;
     flex-direction: column;

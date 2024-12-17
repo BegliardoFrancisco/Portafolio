@@ -36,8 +36,12 @@
     background-color: #040111  ;
   }
 
-  svg {
+  .icon {
     fill: #ffff;
+  }
+  
+  .github {
+    fill: #fff;
   }
 }
 

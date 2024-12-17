@@ -22,3 +22,8 @@
     font-weight: 500;
     color: #bbbb;
 }
+
+
+@media (prefers-color-scheme: dark) {
+
+}
